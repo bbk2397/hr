@@ -3,15 +3,22 @@
 
 # Help
 #1 Create a Python virtual environment
+
 #2 Activate this environment
+
 #3 Install the requirements (there is a requirements.txt file)
+
 
 #4 Some commands that could be helpful
 
 python manage.py makemigrations
+
 python manage.py migrate
+
 python manage.py etl
+
 python manage.py runserver
+
 
 #5 Some paths that could be helpful
 
