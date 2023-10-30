@@ -38,6 +38,9 @@ python manage.py runserver
     - sorting
     - pagination
     - filtering based on URL parameters
+  - read one
+  - update one
+  - delete one
 - endpoints for statistics:
   - average age per industry
   - average salaries per industry
